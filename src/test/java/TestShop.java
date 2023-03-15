@@ -14,8 +14,6 @@ public class TestShop {
         Configuration.holdBrowserOpen = true;
 
 
-
-
     }
 
     @Test
